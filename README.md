@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-rating-bar-S1W7sDRU5)
 - Live Site URL: [Live Site URL here](https://responsive-rating-ibao1xf1h-maryshodiya.vercel.app/)
 
 ## My process
