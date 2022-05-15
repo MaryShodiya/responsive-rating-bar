@@ -20,6 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Live Site URL here](https://responsive-rating-ibao1xf1h-maryshodiya.vercel.app/)
 
 ## My process
 
@@ -53,7 +54,7 @@ Would love to explore further features in the area of adding more functionality 
 
 ### Useful resources
 
-- [Resource](https://www.w3schools.com/howto/howto_js_todolist.asp) - This helped me in modifying the icons functionality. I will use it going forward and would definitely recommend to any one going forward.
+- [Resource](https://www.w3schools.com/howto_css_star_rating.asp) - This helped me in modifying the icons functionality. I will use it going forward and would definitely recommend to any one going forward.
 
 
 

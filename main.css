@@ -8,6 +8,9 @@
     border-radius: 14px;
     color: white;
 }
+.attribution{
+    text-align:center;
+}
 #rating , #msg{
     font-size:20px;
     text-align:center;
